@@ -5,9 +5,10 @@
   "version": "1.6.10",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "fs-extra": "^10.0.0",
     "fstorm": "latest",
-    "insert-line": "^1.1.0",
-    "jimp": "latest"
+    "jimp": "latest",
+    "ytdl-core": "latest",
+    "fs-extra": "latest",
+    "ytsr": "latest"
   }
 }
